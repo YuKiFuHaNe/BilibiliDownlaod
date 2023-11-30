@@ -3,7 +3,7 @@
 该程序支持Winodws、Linux、MacOS系统，支持Linux一键部署，支持crontab定时管理。
 
 ## 💡 TODO List ~~(在可见的未来...)~~
-- 更多开发进度详情请看 [**项目清单表**](https://github.com/users/Zeal-L/projects/2/views/1)
+- 更多开发进度详情请看 [**项目清单表**](https://github.com/YuKiFuHaNe/BilibiliDownlaod)
 - **PS: 也欢迎小伙伴们多多的在Issues里提意见，不管是Bug还是操作逻辑，界面优化等等作者统统笑纳~**
   - 🟦 缓存更多资源，减少网络请求
   - 🟦 添加一个启动程序加载进度条
